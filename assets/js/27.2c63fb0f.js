@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[27],{468:function(t,n,s){"use strict";s.r(n);var e=s(2),o=Object(e.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("看了《大秦帝国之裂变》，法度规则很重要, 在最无力的时候只要遵守即可, 依然可以让你向目标前进, 要做自己的商鞅！")])])}),[],!1,null,null,null);n.default=o.exports}}]);
